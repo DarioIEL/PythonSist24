@@ -42,4 +42,4 @@ risultatoSomma, risultatoDiff, risultatoDiv, risultatoMolt = calcolaOperazioni(n
 print("La somma vale",risultatoSomma)
 print("La differenza vale", risultatoDiff)
 print("Il prodotto vale", risultatoMolt)
-print("IL quoziente vale", risultatoDiv)
+print("Il quoziente vale", risultatoDiv)

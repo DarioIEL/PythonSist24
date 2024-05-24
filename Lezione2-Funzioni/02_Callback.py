@@ -15,6 +15,7 @@ def raddoppia(numero):
 def triplica(numero):
     return numero * 3
 
+# Nel richiamare la funzione come parametro non utilizzo le () 
 risultato1 = applicaFunzione(raddoppia, 7)
 print(risultato1)
 
